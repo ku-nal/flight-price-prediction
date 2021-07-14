@@ -15,8 +15,6 @@ chardet==3.0.4
 click==7.1.2
 colorama==0.4.3
 comtypes==1.1.7
-conda==4.8.3
-conda-package-handling==1.7.0
 configparser==5.0.2
 contextlib2==0.6.0.post1
 cp-tool==2.1.1
